@@ -1,0 +1,18 @@
+h1{
+  font-weight: 700;
+  font-size: 45 px;
+  margin: 10 px;
+  margin-bottom: 20 px;
+}
+input{
+  width: 100%;
+}
+.items-container{
+  text-align: left;
+}
+.rr-row{
+  margin: 10 px 5 px;
+}
+.rr-btn{
+  min-width: 80 px;
+}
